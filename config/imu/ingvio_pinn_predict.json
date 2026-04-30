@@ -1,0 +1,12 @@
+{
+    "obs"            : "data/GVINS/urban_driving/urban.obs",
+    "eph"            : "data/GVINS/urban_driving/urban.nav",
+    "gt"             : "data/GVINS/urban_driving/ground_truth.csv",
+    "imu"            : "data/GVINS/urban_driving/imu0.csv",
+    "ublox_pvt"      : "data/GVINS/urban_driving/ublox_driver-receiver_pvt.csv",
+    "start_time"     : 1627470881,
+    "end_time"       : 1627471618,
+    "model"          : "model/pinn_fusion_v1",
+    "mode"           : "predict",
+    "gt_leap_seconds": true
+}

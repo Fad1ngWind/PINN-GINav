@@ -1,0 +1,13 @@
+config,seed,score_3d
+nonpinn,42,18.642469
+nonpinn,123,17.747945
+nonpinn,2024,17.932157
+full_with_lvel,42,13.362313
+full_with_lvel,123,13.693185
+full_with_lvel,2024,13.261431
+wo_lkin,42,13.379279
+wo_lkin,123,14.114029
+wo_lkin,2024,14.084453
+wo_lvel,42,13.093327
+wo_lvel,123,13.384061
+wo_lvel,2024,12.918769
