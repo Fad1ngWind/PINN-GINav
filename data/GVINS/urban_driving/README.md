@@ -1,4 +1,4 @@
-Place the raw GVINS urban driving files here before training or prediction.
+Place the raw **GVINS-Dataset** `urban_driving` files here before training or prediction.
 
 Required files:
 

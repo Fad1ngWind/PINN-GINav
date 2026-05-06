@@ -1,5 +1,7 @@
 # PINN-GINav - Final Experimental Results
 
+All results in this file are reported on **GVINS-Dataset**, using the **`data/GVINS/urban_driving/`** subset.
+
 ## Main Results
 | Method | 2D RMSE (m) | 3D RMSE (m) | vs GNSS | vs Non-PINN |
 |---|---:|---:|---:|---:|

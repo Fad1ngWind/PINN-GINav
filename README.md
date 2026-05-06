@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## Data
 
-The full raw GVINS dataset is not included in this repository because some source files exceed standard GitHub file-size limits.
+The full raw **GVINS-Dataset** is not included in this repository because some source files exceed standard GitHub file-size limits.
 
 Expected data layout:
 
@@ -77,7 +77,7 @@ data/
       ublox_driver-receiver_pvt.csv
 ```
 
-The configs in `config/imu/` use these relative paths.
+The configs in `config/imu/` use these relative paths. All finalized experiments in this release are based on **GVINS-Dataset / urban_driving**.
 
 ## Usage
 

@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## 数据
 
-本仓库未直接包含完整 GVINS 原始数据，因为其中部分文件超过了 GitHub 普通仓库的体积限制。
+本仓库未直接包含完整 **GVINS-Dataset** 原始数据，因为其中部分文件超过了 GitHub 普通仓库的体积限制。
 
 期望的数据目录结构如下：
 
@@ -77,7 +77,7 @@ data/
       ublox_driver-receiver_pvt.csv
 ```
 
-`config/imu/` 中的配置文件使用上述相对路径。
+`config/imu/` 中的配置文件使用上述相对路径。本发布版本中的最终实验全部基于 **GVINS-Dataset / urban_driving**。
 
 ## 使用
 
